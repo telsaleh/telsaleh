@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently a Research Software Engineer at the University of Surrey, with a PhD in COmputer Science and Electronic Engineering from the University of Surrey.
+My research and development background in the field of Internet of Things (IoT) and Artificial Intelligence (AI) include: Service, Data and Metadata Management, Semantic Modelling and Validation, Interoperability for Multi-Domain Experimentation Facilities, and Application of IoT technologies with AI in Healthcare.
+I have contributed software-based solutions to several major EU and UK funded IoT and AI research projects since 2008, and Have also contributed to standardization activities in the field, such as the W3C submission, the IoT-Lite Ontology.
+
 <!--
 **telsaleh/telsaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
