@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm a Research Software Engineer and Project Manager, and hold a PhD in Computer Science and Electronic Engineering from the University of Surrey.
+I'm a Research Software Engineer and Project Manager, and hold a PhD in Computer Science and Electronic Engineering from the University of Surrey. My [thesis](https://doi.org/10.15126/thesis.900546) was on the topic of ```Semantic Data Management for Dynamic IoT Services```.
 
 My research and development background in the field of Internet of Things (IoT) and Artificial Intelligence (AI) include: Service, Data and Metadata Management at the Edge, Semantic Information Modelling and Validation, Interoperability for Multi-Domain Data Spaces, and Application of IoT technologies with AI in Healthcare.
 
-I have contributed software-based solutions to several major EU and UK funded IoT and AI research projects for over 15 years, and have also contributed to standardization activities in the field, such as the W3C submission, the IoT-Lite Ontology, and FIWARE's NGSI specification for Context Information Management (CIM).
+I have contributed software-based solutions to several major EU and UK funded IoT and AI research projects for over 15 years, and have also contributed to standardization activities in the field, such as the W3C submission, the [IoT-Lite](https://www.w3.org/submissions/iot-lite/) Ontology, and FIWARE's [NGSI](https://github.com/telsaleh/fiware-iot-discovery-ngsi9) specification for Context Information Management (CIM).
 
 <!--
 **telsaleh/telsaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
